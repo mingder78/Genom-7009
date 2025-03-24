@@ -13,6 +13,7 @@
   - [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) -
  
 * [NIH](https://www.ncbi.nlm.nih.gov)
+  - [The Genome Reference Consortium (GRC)](https://www.ncbi.nlm.nih.gov/grc/human) - Human Genome Overview
  
 ## genes browsers
 
