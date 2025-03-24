@@ -12,6 +12,8 @@
 * [NCBI](https://blast.ncbi.nlm.nih.gov)
   - [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) -
  
+* [NIH](https://www.ncbi.nlm.nih.gov)
+ 
 ## genes browsers
 
 * [Ensembl Genome Browser]() — Browse genomes of many species, view gene models, exon structures, and sequence data.
