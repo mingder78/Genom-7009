@@ -26,3 +26,5 @@
 ## genome databases
 
 * [Hymenoptera Genome Database](https://hymenoptera.elsiklab.missouri.edu/cds_fasta)
+
+* [1000 Genomes Project](https://www.internationalgenome.org)
