@@ -17,7 +17,7 @@
  
 ## genes browsers
 
-* [Ensembl Genome Browser]() — Browse genomes of many species, view gene models, exon structures, and sequence data.
+* [Ensembl Genome Browser](https://asia.ensembl.org/) — Browse genomes of many species, view gene models, exon structures, and sequence data.
 
 * [NCBI Genome Data Viewer]() — Explore genomic regions with exon/intron visualization.
 
